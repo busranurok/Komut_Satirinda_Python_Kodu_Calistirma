@@ -1,6 +1,6 @@
-# Komut_Satirinda_Python_Kodu_Calistirma
+# Komut Satirinda Python Kodu Calistirma
 
-- İlk olarak PyCharm'da "hi.py" isminde python dosyası oluşturdum.
+- İlk olarak PyCharm'da "hi.py" isminde python dosyası oluşturdum. ()
 - Bu dosyanın içirisine aşağıdaki kodu yazıp kaydettim: 
 
 ```python
